@@ -1,0 +1,14 @@
+D:\AllProjects\C#\SimpleMail\SimpleMail\bin\Release\SimpleMail.exe.config
+D:\AllProjects\C#\SimpleMail\SimpleMail\bin\Release\SimpleMail.exe
+D:\AllProjects\C#\SimpleMail\SimpleMail\bin\Release\SimpleMail.pdb
+D:\AllProjects\C#\SimpleMail\SimpleMail\obj\Release\SimpleMail.csprojAssemblyReference.cache
+D:\AllProjects\C#\SimpleMail\SimpleMail\obj\Release\SimpleMail.Properties.Resources.resources
+D:\AllProjects\C#\SimpleMail\SimpleMail\obj\Release\SimpleMail.Util.Loading.FrmLoading.resources
+D:\AllProjects\C#\SimpleMail\SimpleMail\obj\Release\SimpleMail.Window.WriteForm.resources
+D:\AllProjects\C#\SimpleMail\SimpleMail\obj\Release\SimpleMail.Window.LoginForm.resources
+D:\AllProjects\C#\SimpleMail\SimpleMail\obj\Release\SimpleMail.Window.MainForm.resources
+D:\AllProjects\C#\SimpleMail\SimpleMail\obj\Release\SimpleMail.Window.MessageForm.resources
+D:\AllProjects\C#\SimpleMail\SimpleMail\obj\Release\SimpleMail.csproj.GenerateResource.cache
+D:\AllProjects\C#\SimpleMail\SimpleMail\obj\Release\SimpleMail.csproj.CoreCompileInputs.cache
+D:\AllProjects\C#\SimpleMail\SimpleMail\obj\Release\SimpleMail.exe
+D:\AllProjects\C#\SimpleMail\SimpleMail\obj\Release\SimpleMail.pdb
